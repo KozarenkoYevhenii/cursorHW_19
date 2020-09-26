@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.io/cursorHW_19/static/css/main.5ae6aaa4.chunk.css",
-    "main.js": "/github.io/cursorHW_19/static/js/main.3ba25c3d.chunk.js",
-    "main.js.map": "/github.io/cursorHW_19/static/js/main.3ba25c3d.chunk.js.map",
-    "runtime-main.js": "/github.io/cursorHW_19/static/js/runtime-main.b20441cf.js",
-    "runtime-main.js.map": "/github.io/cursorHW_19/static/js/runtime-main.b20441cf.js.map",
-    "static/js/2.cdcfb89a.chunk.js": "/github.io/cursorHW_19/static/js/2.cdcfb89a.chunk.js",
-    "static/js/2.cdcfb89a.chunk.js.map": "/github.io/cursorHW_19/static/js/2.cdcfb89a.chunk.js.map",
-    "index.html": "/github.io/cursorHW_19/index.html",
-    "precache-manifest.983296b52987f26bf2ce2d0fd03a48bd.js": "/github.io/cursorHW_19/precache-manifest.983296b52987f26bf2ce2d0fd03a48bd.js",
-    "service-worker.js": "/github.io/cursorHW_19/service-worker.js",
-    "static/css/main.5ae6aaa4.chunk.css.map": "/github.io/cursorHW_19/static/css/main.5ae6aaa4.chunk.css.map",
-    "static/js/2.cdcfb89a.chunk.js.LICENSE.txt": "/github.io/cursorHW_19/static/js/2.cdcfb89a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/github.io/cursorHW_19/static/media/Starjedi.cc3019aa.ttf"
+    "main.css": "/cursorHW_19/static/css/main.71ee7163.chunk.css",
+    "main.js": "/cursorHW_19/static/js/main.2536d9f2.chunk.js",
+    "main.js.map": "/cursorHW_19/static/js/main.2536d9f2.chunk.js.map",
+    "runtime-main.js": "/cursorHW_19/static/js/runtime-main.1d22ad2b.js",
+    "runtime-main.js.map": "/cursorHW_19/static/js/runtime-main.1d22ad2b.js.map",
+    "static/js/2.cdcfb89a.chunk.js": "/cursorHW_19/static/js/2.cdcfb89a.chunk.js",
+    "static/js/2.cdcfb89a.chunk.js.map": "/cursorHW_19/static/js/2.cdcfb89a.chunk.js.map",
+    "index.html": "/cursorHW_19/index.html",
+    "precache-manifest.36342420b9a98ecdf47692641dafb6e5.js": "/cursorHW_19/precache-manifest.36342420b9a98ecdf47692641dafb6e5.js",
+    "service-worker.js": "/cursorHW_19/service-worker.js",
+    "static/css/main.71ee7163.chunk.css.map": "/cursorHW_19/static/css/main.71ee7163.chunk.css.map",
+    "static/js/2.cdcfb89a.chunk.js.LICENSE.txt": "/cursorHW_19/static/js/2.cdcfb89a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/cursorHW_19/static/media/Starjedi.cc3019aa.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b20441cf.js",
+    "static/js/runtime-main.1d22ad2b.js",
     "static/js/2.cdcfb89a.chunk.js",
-    "static/css/main.5ae6aaa4.chunk.css",
-    "static/js/main.3ba25c3d.chunk.js"
+    "static/css/main.71ee7163.chunk.css",
+    "static/js/main.2536d9f2.chunk.js"
   ]
 }
