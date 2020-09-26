@@ -1,0 +1,11 @@
+.navbar {
+  display: flex;
+  background-color: black;
+  height: 50px;
+}
+.navbar-item {
+  color: rgb(201, 201, 14);
+  text-decoration: none;
+  margin: auto 10px;
+  font-family: 'starjedi';
+}

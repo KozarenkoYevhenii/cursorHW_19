@@ -1,0 +1,9 @@
+.search {
+  width: 350px;
+  padding: 10px 0;
+  margin: 10px auto;
+  background-color: rgb(15, 189, 189);
+}
+.input {
+    width: 200px;
+}

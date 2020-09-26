@@ -1,0 +1,10 @@
+.photo-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.photo-item{
+    max-width: 800px;
+    max-height: 600px;
+    margin: 10px;
+}
