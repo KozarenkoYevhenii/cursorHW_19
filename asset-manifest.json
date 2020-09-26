@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/cursorHW_19/static/css/main.5ae6aaa4.chunk.css",
+    "main.js": "/github.io/cursorHW_19/static/js/main.3ba25c3d.chunk.js",
+    "main.js.map": "/github.io/cursorHW_19/static/js/main.3ba25c3d.chunk.js.map",
+    "runtime-main.js": "/github.io/cursorHW_19/static/js/runtime-main.b20441cf.js",
+    "runtime-main.js.map": "/github.io/cursorHW_19/static/js/runtime-main.b20441cf.js.map",
+    "static/js/2.cdcfb89a.chunk.js": "/github.io/cursorHW_19/static/js/2.cdcfb89a.chunk.js",
+    "static/js/2.cdcfb89a.chunk.js.map": "/github.io/cursorHW_19/static/js/2.cdcfb89a.chunk.js.map",
+    "index.html": "/github.io/cursorHW_19/index.html",
+    "precache-manifest.983296b52987f26bf2ce2d0fd03a48bd.js": "/github.io/cursorHW_19/precache-manifest.983296b52987f26bf2ce2d0fd03a48bd.js",
+    "service-worker.js": "/github.io/cursorHW_19/service-worker.js",
+    "static/css/main.5ae6aaa4.chunk.css.map": "/github.io/cursorHW_19/static/css/main.5ae6aaa4.chunk.css.map",
+    "static/js/2.cdcfb89a.chunk.js.LICENSE.txt": "/github.io/cursorHW_19/static/js/2.cdcfb89a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/github.io/cursorHW_19/static/media/Starjedi.cc3019aa.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b20441cf.js",
+    "static/js/2.cdcfb89a.chunk.js",
+    "static/css/main.5ae6aaa4.chunk.css",
+    "static/js/main.3ba25c3d.chunk.js"
+  ]
+}
